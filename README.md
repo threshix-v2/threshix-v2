@@ -32,5 +32,4 @@
 <p><a href="https://www.buymeacoffee.com/threshix"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="threshix" /></a></p><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=threshix-v2&show_icons=true&locale=en" alt="threshix-v2" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=threshix-v2&" alt="threshix-v2" /></p>
 
