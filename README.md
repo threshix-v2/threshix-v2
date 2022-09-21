@@ -21,7 +21,6 @@
 <a href="https://fb.com/facebook.com/threshix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/threshix" height="30" width="40" /></a>
 <a href="https://instagram.com/threshix_v2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="threshix_v2" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/threshix_v2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="threshix_v2" height="30" width="40" /></a>
-<a href="https://discord.gg/@threshix_v2#0748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@threshix_v2#0748" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
