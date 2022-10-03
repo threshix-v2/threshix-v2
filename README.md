@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **C# / nissans / games**
+- 💬 Ask me about **C# / nissans / games / everything releated with PCs**
 
 - 📫 How to reach me **milenstoychev74@gmail.com**
 
