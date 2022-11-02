@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning C#<br><br>💬 Ask me about C# / games / Hardware<br><br>📫 How to reach me milenstoychev74@gmail.com<br><br>⚡ Fun fact:  I am a great goalkeeper and i also enjoy playing video games <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+🌱 I’m currently learning C#<br><br>💬 Ask me about C# / games / Hardware<br><br>📫 How to reach me milenstoychev74@gmail.com<br><br>⚡ Fun fact ->  I am a great goalkeeper and i also enjoy playing video games <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 ## 🌐 Socials:
