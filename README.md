@@ -1,34 +1,25 @@
-[![MasterHead](https://www.fscj.edu/images/default-source/workforce-education/gi175422122_1920x540.jpg?sfvrsn=937786d5_0)]
-<h1 align="center">Hi 👋, I'm Milen Stoychev (@threshix_v2)</h1>
-<h3 align="center">A passionate future developer from Bulgaria</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# 💫 About Me:
+🌱 I’m currently learning C#<br><br>💬 Ask me about C# / games / Hardware<br><br>📫 How to reach me milenstoychev74@gmail.com<br><br>⚡ Fun fact:  I am a great goalkeeper and i also enjoy playing video games <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=threshix-v2&label=Profile%20views&color=0e75b6&style=flat" alt="threshix-v2" /> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/threshix_v2#0748) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/threshix) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/threshix_v2) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@threshix_v2) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/threshix_v2) 
 
-- 🌱 I’m currently learning **C#**
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=threshix-v2&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=threshix-v2&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=threshix-v2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 💬 Ask me about **C# / nissans / games / everything releated with PCs**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-- 📫 How to reach me **milenstoychev74@gmail.com**
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-- ⚡ Fun fact **I am a great goalkeeper and i also enjoy playing video games**
+---
+[![](https://visitcount.itsvg.in/api?id=threshix-v2&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/threshix_v2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="threshix_v2" height="30" width="40" /></a>
-<a href="https://www.facebook.com/threshix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/threshix" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18129462/threshix-v2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="threshix_v2" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=threshix-v2&show_icons=true&locale=en&layout=compact" alt="threshix-v2" /></p>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/threshix"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="threshix" /></a></p><br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=threshix-v2&show_icons=true&locale=en" alt="threshix-v2" /></p>
-
-
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/threshix) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/threshix2) 
